@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**shubham-gupta-code/shubham-gupta-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shubham Gupta  
 
-Here are some ideas to get you started:
+🚀 Aspiring **Python Developer** | Exploring **Flask, Web Development, and AI** | Sharing my journey with **#LearnInPublic**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+- 🐍 Learning Python deeply (solving problems daily to master it)  
+- 🌐 Completed a Flask course & building small web apps  
+- 🤖 Curious about AI & Data Science (future focus)  
+- 🎯 Goal: Build useful web apps that can be used globally  
+- ✨ Documenting my journey openly to grow + help others  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript (learning), SQL  
+- **Frameworks**: Flask (beginner), planning Django later  
+- **Tools**: Git, GitHub, VS Code  
+- **Interests**: Web Development, AI, Data Science  
+
+---
+
+## 📂 Current Projects
+- 📝 [Python Practice Problems]  
+- 🌱 Beginner Flask apps (coming soon...)  
+
+---
+
+## 📈 My Learning Journey
+I believe in **learning in public** → sharing my progress, mistakes, and small wins.  
+Follow along as I grow into a **full-stack developer with AI skills**.  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shubham-gupta-7a7640377/
+- Twitter (X): @ShubhamGupta808 (https://x.com/ShubhamGupta808)
+- GitHub: @shubham-gupta-code (https://github.com/shubham-gupta-code)
+
+---
+
+⭐️ From Shubham Gupta
