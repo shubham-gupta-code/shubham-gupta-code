@@ -9,7 +9,7 @@
 ## 🔥 About Me
 - 🐍 Learning Python deeply (solving problems daily to master it)  
 - 🌐 Completed a Flask course & building small web apps  
-- 🤖 Curious about AI & Data Science (future focus)  
+- 🤖 Curious about AI & Data Science
 - 🎯 Goal: Build useful web apps that can be used globally  
 - ✨ Documenting my journey openly to grow + help others  
 
