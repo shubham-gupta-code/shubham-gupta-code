@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript (learning), SQL  
+- **Languages**: Python, SQL  
 - **Frameworks**: Flask (beginner), planning Django later  
 - **Tools**: Git, GitHub, VS Code  
 - **Interests**: Web Development, AI, Data Science  
@@ -38,7 +38,7 @@ Follow along as I grow into a **full-stack developer with AI skills**.
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shubham-gupta-7a7640377/
 - Twitter (X): @ShubhamGupta808 (https://x.com/ShubhamGupta808)
-- GitHub: @shubham-gupta-code (https://github.com/shubham-gupta-code)
+- GitHub: (https://github.com/shubham-gupta-code)
 
 ---
 
