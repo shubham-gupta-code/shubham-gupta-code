@@ -37,8 +37,8 @@ Follow along as I grow into a **full-stack developer with AI skills**.
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shubham-gupta-7a7640377/
-- Twitter (X): @ShubhamGupta808 (https://x.com/ShubhamGupta808)
-- GitHub: (https://github.com/shubham-gupta-code)
+- Twitter (X): https://x.com/ShubhamGupta808
+- GitHub: https://github.com/shubham-gupta-code
 
 ---
 
