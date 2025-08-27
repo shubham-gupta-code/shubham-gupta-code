@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Shubham Gupta  
 
 🚀 Aspiring **Python Developer** | Exploring **Flask, Web Development, and AI** | Sharing my journey with **#LearnInPublic**  
