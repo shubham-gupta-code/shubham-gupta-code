@@ -1,42 +1,39 @@
 # 👋 Hi, I'm Shubham Gupta  
 
-🚀 Aspiring **Python Developer** | Exploring **Flask, Web Development, and AI** | Sharing my journey with **#LearnInPublic**  
+🚀 Aspiring **Python Developer** | Exploring **Data Science, Data Analytics, and AI** | Sharing my journey with **#LearnInPublic**  
 
 ---
 
 ## 🔥 About Me
 - 🐍 Learning Python deeply (solving problems daily to master it)  
-- 🌐 Completed a Flask course & building small web apps  
-- 🤖 Curious about AI & Data Science
+- 🤖 Learning Data Science and Analytics
 - 🎯 Goal: Build useful web apps that can be used globally  
 - ✨ Documenting my journey openly to grow + help others  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL  
-- **Frameworks**: Flask (beginner), planning Django later  
-- **Tools**: Git, GitHub, VS Code  
-- **Interests**: Web Development, AI, Data Science  
+- **Languages**: Python, SQL 
+- **Frameworks**: Flask (beginner)
+- **Tools**: Git, GitHub, VS Code, Jupyter 
+- **Interests**: Data Science, Data Analytics and AI
 
 ---
 
 ## 📂 Current Projects
-- 📝 [Python Practice Problems]  
-- 🌱 Beginner Flask apps (coming soon...)  
+- 📝 [Python Practice Problems]
 
 ---
 
 ## 📈 My Learning Journey
 I believe in **learning in public** → sharing my progress, mistakes, and small wins.  
-Follow along as I grow into a **full-stack developer with AI skills**.  
+Follow along as I grow into a **Data Science with AI skills**.  
 
 ---
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shubham-gupta-7a7640377/
 - Twitter (X): https://x.com/ShubhamGupta808
-- GitHub: https://github.com/shubham-gupta-code
 
 ---
 
