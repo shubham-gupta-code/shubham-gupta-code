@@ -7,7 +7,7 @@
 ## 🔥 About Me
 - 🐍 Learning Python deeply (solving problems daily to master it)  
 - 🤖 Learning Data Science and Analytics
-- 🎯 Goal: Build useful web apps that can be used globally  
+- 🎯 Goal: Build ML models to predict future for businesses and also to analyze data
 - ✨ Documenting my journey openly to grow + help others  
 
 ---
