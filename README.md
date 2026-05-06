@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 - **Languages**: Python, SQL 
 - **Database/Warehouse**: MS SQL Server, Snowflake
 - **Tools**: PowerBI, Tableau, Microsoft Excel, Dataflows, GitHub, VS Code, Jupyter
